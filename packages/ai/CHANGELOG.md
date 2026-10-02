@@ -1,5 +1,14 @@
 # ai
 
+## 7.0.128
+
+### Patch Changes
+
+- 0fe8c67: fix: preserve tool approval state when resuming streams
+- d6b42fd: feat(ai): support custom reasoning delimiters in extractReasoningMiddleware
+- Updated dependencies [131532b]
+  - @ai-sdk/gateway@4.0.104
+
 ## 7.0.127
 
 ### Patch Changes
